@@ -42,7 +42,7 @@ async def pump_fun_subscriber(catch=None, catch_all=None, notify=False):
             token_info = f"🚨 Token discovered!\n" \
                          f"Mint: {data['mint']}, Name: {data['name']}, Symbol: ${data['symbol']}, " \
                          f"Description: {data['description']}, Creator: {data['creator']}, " \
-                         f"UpdatedAt: {data['updated_at']}, UsdMarketCap: {data['usd_market_cap']}\n"
+                         f"UsdMarketCap: {data['usd_market_cap']}\n"
 
             if catch and catch == creator:
                 print(token_info)
