@@ -1,4 +1,4 @@
-<h1 align="center">pumpWatch</h1>
+<h1 align="center">pumpWatch 💊</h1>
 <p align="center">
 <img src="banner.png" height="350px" width="500px">
 </p>
