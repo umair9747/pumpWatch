@@ -56,3 +56,7 @@ python3 main.py -catch <account> -notify
 python3 main.py -catchAll accounts.txt -notify
 ```
 If you'd like to be notified about any newly discovered tokens in any of the above three cases, you can just add the `-notify` flag as part of the tool execution. In order to use this utility, you will have to populate `notifier.json` with the webhook URLs of Slack and Discord. You can google on how to create the webhook URLs for the same.
+
+<h2> Let's Connect! </h2>
+If you have any questions or feedback about Genzai or just want to connect with me, feel free to reach out via <a href="https://x.com/0x9747">Twitter/X</a>, <a href="https://in.linkedin.com/in/umair-nehri-49699317a">LinkedIn</a> or <a href="mailto:umairnehri9747@gmail.com">Email</a>.
+</div>
